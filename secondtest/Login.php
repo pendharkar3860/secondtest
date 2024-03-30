@@ -10,7 +10,7 @@
                   <span class="app-brand-logo demo">
                     
                   </span>
-                  <span class="app-brand-text demo text-body fw-bolder">SHIVAM</span>
+                  <span class="app-brand-text demo text-body fw-bolder">shivam electric service</span>
                 </a>
               </div>
               <!-- /Logo -->
